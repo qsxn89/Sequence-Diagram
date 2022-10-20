@@ -1,5 +1,5 @@
 <h1 align="center">Практические и лабораторные работы по Sequence diagram </h1> 
-<h3 align="center">Студентка группы ИВ1-21 Горбунова Анастасия "</h3>
+<h3 align="center">Студентка группы ИВ1-21 Горбунова Анастасия </h3>
 <p align="center"><b>Инструкция по открытию Sequence giagram </b></p>
 <ul>
   <li> Выбрать ветку </li>
